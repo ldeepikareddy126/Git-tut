@@ -1,2 +1,2 @@
 console.log('config.js');
-console.log('version 2222');
+console.log('version ttfit');
